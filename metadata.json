@@ -1,0 +1,6 @@
+{
+  "name": "MetaPilot",
+  "description": "Yield Autopilot and AI crypto copilot with secure web3 wallet connectivity, integrated charts, and interactive smart transaction drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
